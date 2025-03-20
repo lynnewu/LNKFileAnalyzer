@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "LnkFileAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "--recurse --filespec *   --verboseoutput true  --path C:\\src-ssb\\LnkFileAnalyzer --logfile lfa-results.log",
+      "nativeDebugging": true
+    }
+  }
+}

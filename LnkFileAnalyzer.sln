@@ -9,6 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		CreateBadLNK.ps1 = CreateBadLNK.ps1
 		CreateGoodLNK.ps1 = CreateGoodLNK.ps1
+		CreateTestLNKFiles.ps1 = CreateTestLNKFiles.ps1
+		CreateTestLNKFiles.ps1-DANGEROUS-DO-NOT-RUN = CreateTestLNKFiles.ps1-DANGEROUS-DO-NOT-RUN
+		lfa-cli-examples.cmd = lfa-cli-examples.cmd
 	EndProjectSection
 EndProject
 Global
